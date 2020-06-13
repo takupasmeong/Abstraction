@@ -1,0 +1,11 @@
+D:\pemrograman semester 2\tugas\abstraction\obj\Debug\netcoreapp3.1\abstraction.csprojAssemblyReference.cache
+D:\pemrograman semester 2\tugas\abstraction\obj\Debug\netcoreapp3.1\abstraction.AssemblyInfoInputs.cache
+D:\pemrograman semester 2\tugas\abstraction\obj\Debug\netcoreapp3.1\abstraction.AssemblyInfo.cs
+D:\pemrograman semester 2\tugas\abstraction\bin\Debug\netcoreapp3.1\abstraction.exe
+D:\pemrograman semester 2\tugas\abstraction\bin\Debug\netcoreapp3.1\abstraction.deps.json
+D:\pemrograman semester 2\tugas\abstraction\bin\Debug\netcoreapp3.1\abstraction.runtimeconfig.json
+D:\pemrograman semester 2\tugas\abstraction\bin\Debug\netcoreapp3.1\abstraction.runtimeconfig.dev.json
+D:\pemrograman semester 2\tugas\abstraction\bin\Debug\netcoreapp3.1\abstraction.dll
+D:\pemrograman semester 2\tugas\abstraction\bin\Debug\netcoreapp3.1\abstraction.pdb
+D:\pemrograman semester 2\tugas\abstraction\obj\Debug\netcoreapp3.1\abstraction.dll
+D:\pemrograman semester 2\tugas\abstraction\obj\Debug\netcoreapp3.1\abstraction.pdb
